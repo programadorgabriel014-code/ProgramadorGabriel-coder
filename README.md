@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Campos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Larissa Gabriel Campos Liberato, tenho 21 anos e sou natural do São Paulo. Concluí o ensino médio no Roque Passareli, com o curso técnico em informática. Atualmente, estou cursando Ciência de dados na Anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no linkedin "[Gabriel Programador](www.linkedin.com/in/gabriel-programador-3894a238a)", onde mostro projetos web e de programação.
 
@@ -97,14 +97,6 @@ Me chamo Larissa Gabriel Campos Liberato, tenho 21 anos e sou natural do São Pa
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -118,22 +110,6 @@ Me chamo Larissa Gabriel Campos Liberato, tenho 21 anos e sou natural do São Pa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
